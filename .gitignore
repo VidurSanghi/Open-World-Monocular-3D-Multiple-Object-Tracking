@@ -1,0 +1,9 @@
+data/
+pts3d_output/
+output/
+__pycache__/
+*.bin
+*.npy
+*.pth
+*.pkl
+
